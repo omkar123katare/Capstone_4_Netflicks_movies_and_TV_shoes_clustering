@@ -1,1 +1,1 @@
-# Capstone_4_Netflicks_movies_and_TV_shoes_clustering
+# Capstone_4_Online_Retail_Customer_Segmentation
